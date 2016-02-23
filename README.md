@@ -1,2 +1,2 @@
 # project-templates
-useful project templates to get started
+useful javaee gradle project templates to get started
